@@ -1,5 +1,6 @@
 # 💫 About Me:
-Nguyen Phuc Thinh<br>From Faculty of Software Engineering - UIT
+I'm Nguyen Phuc Thinh. I live in Thu Duc, Ho Chi Minh City<br>
+I study in University of Infomation & Technology - Faculty of Software Engineering <br>
 
 
 ## 🌐 Socials:
